@@ -172,10 +172,10 @@ footer {
 
 .logo {
   background: transparent;
-  width: 100px; /*ajusta o tamanho da logo*/
+  width: 120px; /*ajusta o tamanho da logo*/
 }
 
 .logo-area img {
-  width: 40px; /*ajusta o tamanho da imagem da logo*/
-  height: 40px; /*ajusta o tamanho da imagem da logo*/
+  width: 100px; /*ajusta o tamanho da imagem da logo*/
+  height: 100px; /*ajusta o tamanho da imagem da logo*/
 }
